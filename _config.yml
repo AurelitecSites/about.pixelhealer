@@ -1,0 +1,14 @@
+title: About PixelHealer
+
+remote_theme: AurelitecSites/micrabout
+repository: AurelitecSites/about.pixelhealer
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      show_title: true
+      sized_quote: false
